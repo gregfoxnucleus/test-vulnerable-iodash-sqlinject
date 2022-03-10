@@ -1,0 +1,8 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "lodash": "3.0.1",
+    "snyk": "^1.866.0"
+  }
+}
